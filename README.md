@@ -180,28 +180,80 @@ This project demonstrates mastery of:
 ## 📋 Project Structure
 
 ```
-RecordStoreManagementSystem/project/
-├── src/
-│   ├── Album.java (Interface)
-│   ├── CD.java
-│   ├── Vinyl.java
-│   ├── Digital.java
-│   ├── MemberRegistrationForm.java (Abstract)
-│   ├── Client.java
-│   ├── MembershipLevel.java (Interface)
-│   ├── Bronze.java
-│   ├── Silver.java
-│   ├── Gold.java
-│   └── Main.java
-├── data/
-│   ├── albums.txt
-│   ├── members.txt
-│   └── transactions.txt
-├── tests/
-│   └── [Unit test files]
-├── docs/
-│   └── [Documentation files]
-└── README.md
+RecordStoreManagementSystem
+│   .gitignore 
+│   README.md
+│
+└───project
+    │   clientlist.txt
+    │   couponFile.txt
+    │   pom.xml
+    │   RecordStore.txt
+    │
+    ├───.vscode
+    │       launch.json
+    │       settings.json
+    │
+    ├───loadCSVtest
+    │       recordTest1.txt
+    │
+    └───src
+        ├───main
+        │   └───java
+        │       └───com
+        │           └───example
+        │               │   App.java
+        │               │   ClientControl.java
+        │               │   OrderItemController.java
+        │               │   RecordGUI.java
+        │               │   Shop.java
+        │               │   SignInAttempt.java
+        │               │   SignInPage.java
+        │               │   StorePage.java
+        │               │
+        │               └───back
+        │                       App.java
+        │                       Cart.java
+        │                       CD.java
+        │                       Client.java
+        │                       ClientList.java
+        │                       Coupon.java
+        │                       CouponList.java
+        │                       DigitalRecord.java
+        │                       DollarCoupon.java
+        │                       LoadCSV.java
+        │                       LoadProducts.java
+        │                       LoadSQL.java
+        │                       MembershipLevel.java
+        │                       OrderItem.java
+        │                       PercentageCoupon.java
+        │                       Record.java
+        │                       RecordStore.java
+        │                       Vinyl.java
+        │
+        ├───sql
+        │       clientDB.sql
+        │       couponDatabase..sql
+        │       productsDb.sql
+        │
+        └───test
+            └───java
+                └───com
+                    └───example
+                        └───back
+                                CartTest.java
+                                CDTest.java
+                                ClientListTest.java
+                                ClientTest.java
+                                CouponListTest.java
+                                DigitalRecordTest.java
+                                DollarCouponTest.java
+                                LoadCSVTest.java
+                                MembershipLevelTest.java
+                                OrderItemTest.java
+                                PercentageCouponTest.java
+                                RecordStoreTest.java
+                                VinylTest.java
 ```
 
 ## 📄 License
@@ -210,14 +262,5 @@ This project is part of an academic assignment for Fall 2022 coursework.
 
 ---
 
-**Course Project** | **Object-Oriented Programming** | **Fall 2022**
-
-HOW TO:
-    1. to login : 
-        name: James 
-        email: emailTest
-    2. VIEW PROFILE     shows the user/client's information
-    3. EDIT PROFILE     enables client to edit their name, email and upgrade their membership level
-    4. SHOW SORTED/FILTERED LIST    list the products 
-
+**Course Project** | **Object-Oriented Programming** | **Fall 2022** 
 

@@ -1,0 +1,124 @@
+Melissa - Add .gitlab-ci.yml
+Melissa - Merge branch 'main' into 'FinalSubmission'
+melissa bangloy - finalpush/commit
+Melissa - Merge branch 'cv4_main' into 'main'
+melissa bangloy - merge to main
+melissa bangloy - testing
+melissa bangloy - Merge branch 'cv4' of https://gitlab.com/melissa_louise/fall2022_project into cv4
+melissa bangloy - fix coupon error
+Melissa - Update project/src/main/java/com/example/OrderItemController.java
+Luca Fratipietro - Merge branch 'cv4' of https://gitlab.com/melissa_louise/fall2022_project into cv4
+Luca Fratipietro - pom file changes
+melissa bangloy - .
+melissa bangloy - testing
+Melissa - Update OrderItemController.java
+Melissa - update: OrderItemController
+melissa bangloy - mistake
+Luca Fratipietro - Started readme file
+melissa bangloy - finished client order/coupon
+Luca Fratipietro - added some more tests
+Luca Fratipietro - Finished filtering
+Luca Fratipietro - Added title filtering
+Luca Fratipietro - Added more testing
+Luca Fratipietro - Added csv updates on profile changes
+Melissa - add: sortButton.setOnAction
+Melissa - add: editProfileButton.setOnAction
+Melissa - add: viewProfileButton.setOnAction
+Luca Fratipietro - Got it working again, USE VMWARE, need to refactore to add your code
+Luca Fratipietro - Merge branch 'client' of https://gitlab.com/melissa_louise/fall2022_project into Client_FrontEnd_Merge
+Luca Fratipietro - added buttons to recordStoreFront
+melissa bangloy - client shop
+Luca Fratipietro - Added storePage profile buttons
+melissa bangloy - starting on client.shop
+Melissa - Update ClientControl.java
+Melissa - added Client's view/edit but it need to be refactor.
+Melissa - Update ClientControl.java
+melissa bangloy - Merge branch 'main' of https://gitlab.com/melissa_louise/fall2022_project into client
+melissa bangloy - starting shop
+Melissa - Merge branch 'client' into 'main'
+melissa bangloy - merging FrontEnd and client
+melissa bangloy - update branch
+melissa bangloy - done with edit, view client profile
+Luca Fratipietro - Added currentClient to RecordGUI
+Luca Fratipietro - Added scene switch on succesful sign in
+Luca Fratipietro - trying to switch scenes
+melissa bangloy - updating main
+melissa bangloy - Merge branch 'main' of https://gitlab.com/melissa_louise/fall2022_project
+melissa bangloy - updating main
+melissa bangloy - ?
+melissa bangloy - ?
+Melissa - Merge branch 'client' into 'main'
+melissa bangloy - started ClientControl.java
+Luca Fratipietro - syntax
+melissa bangloy - Merge branch 'main' of https://gitlab.com/melissa_louise/fall2022_project into client
+melissa bangloy - starting javafx
+Luca Fratipietro - Sign in page complete, need to add new scene
+Luca Fratipietro - bug with fieldtext
+Luca Fratipietro - fixed csv bug
+Luca Fratipietro - dying
+Luca Fratipietro - sign in stuff
+Luca Fratipietro - started sign in page
+Melissa - Merge branch 'client' into 'main'
+melissa bangloy - Merge branch 'main' of https://gitlab.com/melissa_louise/fall2022_project into client
+melissa bangloy - done with testing
+Luca Fratipietro - Got javafx working
+Melissa - Merge branch 'client' into 'main'
+melissa bangloy - finalizing cart.java
+melissa bangloy - resolving merge conflict
+melissa bangloy - finished cart
+melissa bangloy - finished cart.java:
+Luca Fratipietro - Merge branch 'RecordFilter' into 'main'
+Luca Fratipietro - fixed merge conflicts
+Luca Fratipietro - Added testing for record classes and record store
+Luca Fratipietro - Added comments
+Melissa - Merge branch 'client' into 'main'
+melissa bangloy - finished sort Price by lowest
+Luca Fratipietro - Added rest of filter methods
+melissa bangloy - resolving merge conflict
+melissa bangloy - sort started
+Luca Fratipietro - Merge branch 'RecordFilter' into 'main'
+Luca Fratipietro - Added record filtering by price
+Luca Fratipietro - Merge branch 'client_stuff' into 'main'
+Luca Fratipietro - Merge conflict fixed with main
+Melissa - Merge branch 'client' into 'main'
+melissa bangloy - finished coupon.sql
+Luca Fratipietro - Added client rewriting to csv file on client change
+Luca Fratipietro - x
+Luca Fratipietro - Added client exists method to client.java
+Melissa Louise Bangloy - Merge branch 'client' into 'main'
+melissa bangloy - loadCoupons with sql
+melissa bangloy - Fixed couponList print
+melissa bangloy - saving
+melissa bangloy - saving
+Luca Fratipietro - Merge branch 'LoadProducts' into 'main'
+Luca Fratipietro - fixed merging conflicts
+Luca Fratipietro - Added csv loading from products
+Melissa Louise Bangloy - Merge branch 'client' into 'main'
+melissa bangloy - merge conflict resolved
+melissa bangloy - working on discount
+Melissa Louise Bangloy - Merge branch 'client_stuff' into 'main'
+Luca Fratipietro - fixed merging conflicts
+Melissa Louise Bangloy - Merge branch 'client' into 'main'
+melissa bangloy - Added test for DollarCoupon, PercentageCoupon, OrderItem, Artist (also @override Artist boolean equals() method)
+melissa bangloy - courselist, coupon file, coupon sql
+Luca Fratipietro - load from CSV stuff
+Luca - Added clientlist class
+Melissa Louise Bangloy - Merge branch 'client' into 'main'
+melissa bangloy - changes on the app
+Melissa Louise Bangloy - Merge branch 'client' into 'main'
+melissa bangloy - ?
+melissa bangloy - orderitems, add to card, calculate total, set new points
+melissa bangloy - merge conflict
+melissa bangloy - app test
+Melissa Louise Bangloy - Merge branch 'RecordStore' into 'main'
+Luca Fratipietro - Delete RecordStore.txt
+Luca Fratipietro - Delete RecordStoreTest.txt
+Luca Fratipietro - Added test classes to RecordStore and Record
+Luca Fratipietro - Record store classes added
+melissa bangloy - created couponText file to store list of coupon
+melissa bangloy - modifies coupons, address, and client
+melissa bangloy - updated ignore file
+melissa bangloy - added Address.java AptAdress.java that extends Address.java HomeAdress.java that extends Address.java Coupon.java as an abstrac class DollarCoupon.java that extends Coupon.java PercentageCoupon.java that extends Coupon.java
+melissa bangloy - adding Client.java and MembershipLevel.java (enum)
+melissa bangloy - maven folder
+Melissa Louise Bangloy - Initial commit
