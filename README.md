@@ -83,18 +83,12 @@ A comprehensive Record Store Management System built in Java that simulates a mu
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/melissa0987/RecordStoreManagementSystem.git
-   cd RecordStoreManagementSystem/project
+    git clone https://github.com/melissa0987/RecordStoreManagementSystem.git
+    cd RecordStoreManagementSystem/project
    ```
-
-2. Compile the Java files:
+2. Run the application:
    ```bash
-   javac *.java
-   ```
-
-3. Run the main program:
-   ```bash
-   java Main
+    mvn clean javafx:run
    ```
 
 ---
@@ -103,6 +97,7 @@ A comprehensive Record Store Management System built in Java that simulates a mu
 ### 1. ✅ Login
 
 When prompted, enter the following user credentials:
+![login-pic](screenshot/login.png)
 
 - **Name:** `James`  
 - **Email:** `emailTest`

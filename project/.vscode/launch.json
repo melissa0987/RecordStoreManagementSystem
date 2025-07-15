@@ -44,7 +44,7 @@
             "request": "launch",
             "mainClass": "com.example.App",
             "projectName": "project",
-            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-19/lib\" --add-modules javafx.media,javafx.base,javafx.graphics,javafx.controls,javafx.fxml"
+            "vmArgs": "--module-path \"C:/Users/melis/Downloads/programs/JAVA/javafx-sdk-24.0.2/lib\" --add-modules javafx.media,javafx.base,javafx.graphics,javafx.controls,javafx.fxml"
         }
     ]
 }
