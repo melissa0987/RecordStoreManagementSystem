@@ -39,7 +39,7 @@ A comprehensive Record Store Management System built in Java that simulates a mu
   - **`Silver.java`** - Silver tier implementation  
   - **`Gold.java`** - Gold tier implementation
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Object-Oriented Design Principles
 - **Inheritance**: Client extends MemberRegistrationForm
