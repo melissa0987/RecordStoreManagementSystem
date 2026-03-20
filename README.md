@@ -3,11 +3,11 @@
 **Fall 2022 Project**  
 **Authors:** Luca Fratipietro, Melissa Bangloy
 
-## 📖 Project Overview
+## Project Overview
 
 A comprehensive Record Store Management System built in Java that simulates a music store selling albums in multiple formats (CD, Vinyl, and Digital). The system manages customer memberships with tiered benefits and implements a points-based reward system.
 
-## 🎯 Features
+## Features
 
 ### Album Management
 - **Multiple Format Support**: CD, Vinyl, and Digital formats
@@ -21,7 +21,7 @@ A comprehensive Record Store Management System built in Java that simulates a mu
 - **Points Accumulation**: Different point earning rates based on membership tier
 - **Member Benefits**: Tier-specific rewards and benefits
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Core Classes
 
@@ -53,7 +53,7 @@ A comprehensive Record Store Management System built in Java that simulates a mu
 - **Album inventory management**
 - **Purchase processing with points calculation**
 
-## 🗂️ Data Management
+## Data Management
 
 ### Initial Data Set
 - **12 hardcoded records** for testing and development
@@ -66,14 +66,14 @@ A comprehensive Record Store Management System built in Java that simulates a mu
 - Member profiles with accumulated points
 - Purchase history and transaction records
 
-## 📍 Repository Information
+## Repository Information
 
 > **Note:** This repository has been migrated from GitLab to GitHub for better portfolio visibility and collaboration.
 > 
 > **Original Repository:** [https://gitlab.com/melissa_louise/fall2022_project](https://gitlab.com/melissa_louise/fall2022_project)  
 > **Current Repository:** Now hosted on GitHub under melissa0987
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
@@ -92,9 +92,9 @@ A comprehensive Record Store Management System built in Java that simulates a mu
    ```
 
 ---
-## 🧭 HOW TO USE THE PROGRAM
+## HOW TO USE THE PROGRAM
 
-### 1. ✅ Login
+### 1. Login
 
 When prompted, enter the following user credentials:
 ![login-pic](screenshot/login.png)
@@ -102,10 +102,10 @@ When prompted, enter the following user credentials:
 - **Name:** `James`  
 - **Email:** `emailTest`
 
-> ℹ️ These are the default credentials for simulating a client login.
+> These are the default credentials for simulating a client login.
  
 
-### 2. 👤 View Profile
+### 2. View Profile
 
 After logging in, choose **View Profile** from the menu to display the client’s current information:
 
@@ -115,17 +115,17 @@ After logging in, choose **View Profile** from the menu to display the client’
 - Purchase History (if applicable)
  
 
-### 3. ✏️ Edit Profile
+### 3. Edit Profile
 
 Choose **Edit Profile** to:
 
 - Update your **name** or **email**
 - **Upgrade** your membership level (e.g., from Basic to Premium)
 
-> 💾 Changes are saved immediately.
+> Changes are saved immediately.
  
 
-### 4. 📦 Show Sorted/Filtered List
+### 4. Show Sorted/Filtered List
 
 Use this option to view the available products with the ability to:
 
@@ -136,7 +136,7 @@ Use this option to view the available products with the ability to:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Unit Testing Strategy
 - **Standalone class testing** for core business logic
@@ -149,7 +149,7 @@ Use this option to view the available products with the ability to:
 - File I/O operations need separate test environments
 - Member and Album classes integration testing
 
-## 👥 Development Team
+## Development Team
 
 ### Work Distribution
 - **Luca Fratipietro**: Album type UML design and implementation
@@ -161,7 +161,7 @@ Use this option to view the available products with the ability to:
 - **Documentation**: Comprehensive commenting and documentation
 - **Collaboration**: Regular sync meetings and pair programming sessions
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 This project demonstrates mastery of:
 - **Class Design**: Proper use of abstract classes and interfaces
@@ -172,7 +172,7 @@ This project demonstrates mastery of:
 - **Code Quality**: Readable, maintainable code structure
 
 
-## 📋 Project Structure
+## Project Structure
 
 ```
 RecordStoreManagementSystem
@@ -251,7 +251,7 @@ RecordStoreManagementSystem
                                 VinylTest.java
 ```
 
-## 📄 License
+## License
 
 This project is part of an academic assignment for Fall 2022 coursework.
 
